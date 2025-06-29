@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfoojay_doc_site=self.webpackChunkfoojay_doc_site||[]).push([[123],{47337:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/foojay-redocusaurus-demo/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
