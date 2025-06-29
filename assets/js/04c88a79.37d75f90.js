@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfoojay_doc_site=self.webpackChunkfoojay_doc_site||[]).push([[8359],{84471:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-redoc","id":"word-api"}')}}]);
